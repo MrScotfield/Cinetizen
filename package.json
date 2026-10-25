@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "TizenBrew module for Cineby.gd",
   "packageType": "mods",
-  "websiteURL": "https://www.cineby.gd/",
+  "websiteURL": "https://www.cineby.ws/",
   "main": "dist/userScript.js",
   "serviceFile": "dist/service.js",
   "keys": [
