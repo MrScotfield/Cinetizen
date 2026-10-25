@@ -1,7 +1,8 @@
 {
-  "id": "cineby-service",
-  "name": "Cineby Service Module",
-  "version": "1.0.0",
+  "id": "cinetizen",
+  "name": "cinetizen
+",
+  "version": "0.0.1",
   "description": "Background service logic for Cineby.",
   "entry": "index.js"
 }
